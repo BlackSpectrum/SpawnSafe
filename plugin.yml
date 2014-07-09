@@ -1,0 +1,12 @@
+name: BSPSpawnSafe
+main: spawnsafe.SpawnSafe
+version: 1.0
+commands:
+   ssreload:
+      description: Reloads SpawnSafe.
+      permission: spawnsafe.reload
+      usage: /<command>
+permissions:
+    spawnsafe.reload:
+        description: Allows you to reload SpawnSafe
+        default: op
