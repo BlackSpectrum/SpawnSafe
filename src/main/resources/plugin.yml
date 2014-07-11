@@ -1,6 +1,7 @@
-name: BSPSpawnSafe
-main: io.github.mats391.spawnsafe.SpawnSafe
-version: 1.0
+name: BSP${project.name}
+main: ${project.groupId}.spawnsafe.SpawnSafe
+version: ${project.version}
+author: Mats391
 commands:
    ssreload:
       description: Reloads SpawnSafe.

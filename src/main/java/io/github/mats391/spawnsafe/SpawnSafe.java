@@ -1,4 +1,4 @@
-package it.github.mats391.spawnsafe;
+package io.github.mats391.spawnsafe;
 
 import java.util.HashMap;
 import java.util.logging.Logger;

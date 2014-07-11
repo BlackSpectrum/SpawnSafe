@@ -1,4 +1,4 @@
-package it.github.mats391.spawnsafe;
+package io.github.mats391.spawnsafe;
 
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
