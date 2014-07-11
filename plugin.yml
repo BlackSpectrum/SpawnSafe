@@ -1,5 +1,5 @@
 name: BSPSpawnSafe
-main: spawnsafe.SpawnSafe
+main: io.github.mats391.spawnsafe.SpawnSafe
 version: 1.0
 commands:
    ssreload:
